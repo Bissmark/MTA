@@ -1,7 +1,7 @@
 # MTA Lab
 
-### Objectives:
-* Apply your knowledge of JavaScript to solve a real world problem.
+#### Objectives:
+* Apply your knowledge of Javascript to solve a real world problem.
 * Get really good at array manipulation.
 
 #### Activity
